@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384710162354",
+    "project_id": "writeapplication-5ca22",
+    "storage_bucket": "writeapplication-5ca22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384710162354:android:8a5c320ac919a9124756ab",
+        "android_client_info": {
+          "package_name": "com.sentila.writeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384710162354-3t89tt011308vnbcnkemuhc5qrllcs56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7goDFvgyKI_BAms7F59_Z1frphXzOrLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384710162354-3t89tt011308vnbcnkemuhc5qrllcs56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

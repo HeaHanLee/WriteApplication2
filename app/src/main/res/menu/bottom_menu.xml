@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/action_accessible"
+    android:enabled="true"
+    android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+    android:title="글목록"/>
+
+    <item
+        android:id="@+id/action_airplanemode"
+       android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="홈"/>
+
+    <item
+        android:id="@+id/action_airport"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="내 정보"/>
+
+
+
+
+
+</menu>
